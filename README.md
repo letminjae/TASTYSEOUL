@@ -22,16 +22,6 @@
 궁금한 맛집이 있다면 검색하고, 가볼만한 맛집을 찾았다면 좋아요 버튼을 눌러 게시물을 보관해보세요.
 
 
-## DB 구조
-
-### 게시물 DB
-
-![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FXlzfA%2FbtrqAaDrvDU%2FKPPLGFrDcCwgsHlmYMtLSk%2Fimg.png)
-
-### 유저 DB
-
-![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fo5c8G%2FbtrqAdmtwNA%2FJ0lGROjHn7qY7tCK6zQZpk%2Fimg.png)
-
 ## 스크린 샷
 
 ### 로그인
